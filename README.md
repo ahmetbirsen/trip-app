@@ -1,4 +1,4 @@
-# trip-app
+# trip-app React-Native
 
 
 
